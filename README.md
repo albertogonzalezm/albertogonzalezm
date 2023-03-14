@@ -1,4 +1,4 @@
-## <img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" width=300px style='padding:auto;' />
+## <p align="center"><img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" width=50%/></p>
 <p align="center" >
     Welcome to my Github page! my name is <strong>Alberto</strong>. I am a Backend Developer with courses on digital platforms, eager to learn, positive thinking, focused on achievements.
   <br/>
@@ -14,7 +14,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 </br>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-</br><a href="https://replit.com/@AlbertoGonzal29"> <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" /> </a>
+</br>![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+</br><a href="https://replit.com/@AlbertoGonzal29"> <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" /> </a>![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### How to reach me: 
 
