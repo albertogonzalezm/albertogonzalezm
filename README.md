@@ -23,6 +23,11 @@
 <img src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white'>
 <img src='https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)' >
 </div>
+<div style='width:32%; margin:0 2px 4px 2px;' >
+<a href='https://cine.albertogonzal29.repl.co/' target='_blank' style='color:whitesmoke; font-weight: 500;' ><img src='./media/FilmsDjangoApp.jpg' width='100%'></a>
+<img src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white'>
+<img src='https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)' >
+</div>
 </div>
 
 ### How to reach me: 
