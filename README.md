@@ -19,7 +19,7 @@
 
 ### Projects
 <div align='center'>
-<a href='https://cine.albertogonzal29.repl.co/' target='_blank' style='color:whitesmoke; font-weight: 500;' ><img src='./media/FilmsDjangoApp.jpg' width='30%'></a>
+<a href='https://cine.albertogonzal29.repl.co/' ><img src='./media/FilmsDjangoApp.jpg' width='40%'></a>
 </div>
 
 ### How to reach me: 
