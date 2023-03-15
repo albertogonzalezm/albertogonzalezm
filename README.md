@@ -17,17 +17,8 @@
 </br><a href="https://replit.com/@AlbertoGonzal29"> <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" /> </a>![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Projects
-<div align='center' style='display:flex; flex-wrap:wrap; justify-content: center; align-content: center;' >
-<div style='width:32%; margin:0 2px 4px 2px;' >
-<a href='https://cine.albertogonzal29.repl.co/' target='_blank' style='color:whitesmoke; font-weight: 500;' ><img src='./media/FilmsDjangoApp.jpg' width='100%'></a>
-<img src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white'>
-<img src='https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)' >
-</div>
-<div style='width:32%; margin:0 2px 4px 2px;' >
-<a href='https://cine.albertogonzal29.repl.co/' target='_blank' style='color:whitesmoke; font-weight: 500;' ><img src='./media/FilmsDjangoApp.jpg' width='100%'></a>
-<img src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white'>
-<img src='https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)' >
-</div>
+<div align='center' >
+<a href='https://cine.albertogonzal29.repl.co/' ><img src='./media/FilmsDjangoApp.jpg' width='32%' ></a>
 </div>
 
 ### How to reach me: 
