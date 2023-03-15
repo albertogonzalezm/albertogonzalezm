@@ -5,7 +5,7 @@
 </p>
 
 ### I’m currently learning: 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 </br>![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### Languages and Tools:
@@ -17,9 +17,9 @@
 </br>![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 </br><a href="https://replit.com/@AlbertoGonzal29"> <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" /> </a>![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Certificates
+### Projects
 <div align='center'>
-<a href='https://www.freecodecamp.org/certification/albertogonzalezm/back-end-development-and-apis'><img src='./media/BackEndDeveloper_Certification.jpg' width='30%'></a>
+<a href='https://cine.albertogonzal29.repl.co/' target='_blank' style='color:whitesmoke; font-weight: 500;' ><img src='./media/FilmsDjangoApp.jpg' width='30%'></a>
 </div>
 
 ### How to reach me: 
