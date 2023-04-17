@@ -1,6 +1,6 @@
 ## <p align="center"><img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" width=50%/></p>
 <p align="center" >
-    Welcome to my Github page! my name is <strong>Alberto</strong>. I am a Backend Developer with courses on digital platforms, eager to learn, positive thinking, focused on achievements.
+    Welcome to my Github page! my name is <strong>Alberto</strong>. I am a self-taught backend developer with experience in Express.js and knowledge in databases and web technologies.
   <br/>
 </p>
 
