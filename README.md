@@ -22,14 +22,14 @@
 <div style="line-height:8px;">
 <h3>Backend Development and APIs Projects</h3>
 <p>Dec 14, 2022 - Dec 19, 2022</p>
-<p>Microservices projects with MongoDB and the Mongoose library.</p>
+<p>Microservices projects using Node.js, Express, MongoDB and Mongoose.</p>
 <p><a href="https://albertogonzalezm.github.io/">See 5 Microservices</a></o>
 </div>
 
 <div style="line-height:8px;">
 <h3>REST API</h3>
 <p>Feb 14, 2023 - Working on it</p>
-<p>Development of a social network RESTful API for fashion apparel using Node.js, PosgreSQL and Sequelize.</p>
+<p>Development of a social network RESTful API for fashion apparel using Node.js, Express.js, PosgreSQL and Sequelize.</p>
 <p><a href="https://github.com/tony21019/fashionlike/tree/main/Backend">See code</a></o>
 </div>
 
