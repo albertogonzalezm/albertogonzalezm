@@ -6,7 +6,7 @@
 
 ## I’m currently working on: 
 <div style="line-height:8px;">
-<h3>REST API</h3>
+<h3>RESTful API</h3>
 <p>Started on Feb 14, 2023</p>
 <p>Development of a social network RESTful API for fashion apparel using Node.js, Express.js, PosgreSQL and Sequelize.</p>
 <p><a href="https://github.com/tony21019/fashionlike/tree/main/Backend">See code</a></o>
