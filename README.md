@@ -29,14 +29,6 @@
 <p><a href="https://albertogonzalezm.github.io/">See Microservices</a></o>
 </div>
 
-### How to reach me: 
-<div style="line-height:8px;">
-<h3>REST API</h3>
-<p>Feb 14, 2023 - Working on it</p>
-<p>Development of a social network RESTful API for fashion apparel using Node.js, Express.js, PosgreSQL and Sequelize.</p>
-<p><a href="https://github.com/tony21019/fashionlike/tree/main/Backend">See code</a></o>
-</div>
-
 ## How to reach me: 
 <div align='center'>
 <a href="mailto:albertogonzalezmantilla@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
