@@ -4,15 +4,18 @@
   <br/>
 </p>
 
-## I’m currently working on: 
+# I'm currently learning:
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
+# I’m currently working on:
 <div style="line-height:8px;">
-<h3>RESTful API</h3>
-<p>Started on Feb 14, 2023</p>
-<p>Development of a social network RESTful API for fashion apparel using Node.js, Express.js, PosgreSQL and Sequelize.</p>
-<p><a href="https://github.com/tony21019/fashionlike/tree/main/Backend">See code</a></o>
+<h3>Message Application</h3>
+<p>May 3, 2023 ...</p>
+<p>Development of a simple user-to-user messaging web application using Node.js, Express.js, PosgreSQL and Sequelize.</p>
+<p><a href="https://github.com/albertogonzalezm/messageApp.git">See code</a></o>
 </div>
 
-## Languages and Tools:
+# Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -21,12 +24,18 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 </br><a href="https://replit.com/@AlbertoGonzal29"> <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" /> </a>![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Finished projects
+# Finished projects
 <div style="line-height:8px;">
 <h3>Backend Development and APIs Projects</h3>
 <p>Dec 14, 2022 - Dec 19, 2022</p>
 <p>Five microservices projects using Node.js, Express, MongoDB and Mongoose.</p>
 <p><a href="https://albertogonzalezm.github.io/">See Microservices</a></o>
+</div>
+<div style="line-height:8px;">
+<h3>RESTful API</h3>
+<p>Feb 14, 2023 - Apr 29, 2023</p>
+<p>Development of a social network RESTful API for fashion apparel using Node.js, Express.js, PosgreSQL and Sequelize.</p>
+<p><a href="https://github.com/tony21019/fashionlike/tree/main/Backend">See code</a></o>
 </div>
 
 ## How to reach me: 
