@@ -25,7 +25,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 </br>![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-# Finished projects
+# Projects
 <div style="line-height:8px;">
 <h3>Backend Development and APIs Projects</h3>
 <p>Dec 14, 2022 - Dec 19, 2022</p>
@@ -33,9 +33,11 @@
 <p><a href="https://albertogonzalezm.github.io/">See Microservices</a></o>
 </div>
 <div style="line-height:8px;">
-<h3>RESTful API</h3>
-<p>Feb 14, 2023 - Apr 29, 2023</p>
-<p>Development of a social network RESTful API for fashion apparel using Node.js, Express.js, PosgreSQL and Sequelize.</p>
+<h3>Ecommerce C2C</h3>
+<p>Jul 2023 - Working on it</p>
+<p>API development, covering planning, design, implementation, testing and monitoring.</p>
+<p>Database management, as well as the selection, design, implementation and optimization of the database..</p>
+<p>Use of advanced technologies, including Express.js for server development, MySQL as database, Stripe for online payments, Postman for testing, and Google Drive API integration for image storage..</p>
 <p><a href="https://github.com/tony21019/fashionlike/tree/main/Backend">See code</a></o>
 </div>
 
