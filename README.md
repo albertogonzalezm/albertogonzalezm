@@ -11,11 +11,11 @@
 <div style="line-height:8px;">
 <h3>Ecommerce C2C</h3>
 <p>Jul 2023 - Working on it</p>
-<p>Creation of a scalable and secure API that meets the project requirements.</p>
-<p>Database optimization to improve performance and efficiency.</p>
-<p>Successful implementation of advanced technologies that improve the functionality of the project.</p>
-<p>Integration with Firebase for image storage.</p>
-<p><a href="https://github.com/albertogonzalezm/ecommerce_c2c">See code</a></o>
+- Creation of a scalable and secure API that meets the project requirements.
+- Database optimization to improve performance and efficiency.
+- Successful implementation of advanced technologies that improve the functionality of the project.
+- Integration with Firebase for image storage.
+<p<a href="https://github.com/albertogonzalezm/ecommerce_c2c">See code</a>
 </div>
 
 # Languages and Tools:
