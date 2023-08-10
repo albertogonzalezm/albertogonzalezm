@@ -8,15 +8,13 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 # I’m currently working on:
-<div style="line-height:8px;">
-<h3>Ecommerce C2C</h3>
-<p>Jul 2023 - Working on it</p>
-- Creation of a scalable and secure API that meets the project requirements.
-- Database optimization to improve performance and efficiency.
-- Successful implementation of advanced technologies that improve the functionality of the project.
-- Integration with Firebase for image storage.
-<p<a href="https://github.com/albertogonzalezm/ecommerce_c2c">See code</a>
-</div>
+### Ecommerce C2C
+>Jul 2023 - Working on it
+    - Creation of a scalable and secure API that meets the project requirements.
+    - Database optimization to improve performance and efficiency.
+    - Successful implementation of advanced technologies that improve the functionality of the project.
+    - Integration with Firebase for image storage.
+<a href="https://github.com/albertogonzalezm/ecommerce_c2c">See code</a>
 
 # Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -32,12 +30,10 @@
 </br>![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 # Projects
-<div style="line-height:8px;">
-<h3>Backend Development and APIs Projects</h3>
-<p>Dec 14, 2022 - Dec 19, 2022</p>
-<p>Five microservices projects using Node.js, Express, MongoDB and Mongoose.</p>
-<p><a href="https://albertogonzalezm.github.io/">See Microservices</a></o>
-</div>
+### Backend Development and APIs Projects
+>Dec 14, 2022 - Dec 19, 2022
+    Five microservices projects using Node.js, Express, MongoDB and Mongoose.
+<a href="https://albertogonzalezm.github.io/">See Microservices</a>
 
 ## How to reach me: 
 <div align='center'>
