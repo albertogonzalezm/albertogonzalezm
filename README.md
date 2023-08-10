@@ -11,9 +11,10 @@
 <div style="line-height:8px;">
 <h3>Ecommerce C2C</h3>
 <p>Jul 2023 - Working on it</p>
-<p>- API development, covering planning, design, implementation, testing and monitoring.</p>
-<p>- Database management, as well as the selection, design, implementation and optimization of the database.</p>
-<p>- Use of advanced technologies, including Express.js for server development, MySQL as database, Stripe for online payments, Postman for testing, and Google Drive API integration for image storage.</p>
+<p>Creation of a scalable and secure API that meets the project requirements.</p>
+<p>Database optimization to improve performance and efficiency.</p>
+<p>Successful implementation of advanced technologies that improve the functionality of the project.</p>
+<p>Integration with Firebase for image storage.</p>
 <p><a href="https://github.com/albertogonzalezm/ecommerce_c2c">See code</a></o>
 </div>
 
