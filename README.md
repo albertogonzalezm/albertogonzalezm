@@ -1,7 +1,7 @@
 ## <p align="center"><img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" width=60%/></p>
 
 <p align="center" >
-    Welcome to my Github page! my name is <strong>Alberto Gonzalez</strong>. I am a 22 year old self taught student, my goal is to be a professional back end. I characterize myself for having demanding objectives, which drive me to improve myself and achieve the results that I propose. I am adaptable to changes and novelties that occur in the work environment, and I am willing to constantly learn and update my knowledge.
+    Welcome to my Github page! my name is <strong>Alberto Gonzalez</strong>, my goal is to be a professional fullstack developer. I characterize myself for having demanding objectives, which drive me to improve myself and achieve the results that I propose. I am adaptable to changes and novelties that occur in the work environment, and I am willing to constantly learn and update my knowledge.
   <br/>
 </p>
 
