@@ -6,7 +6,7 @@
 </p>
 
 ##
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ANextjs-logo.svg&psig=AOvVaw0rchmKHpRHv_xBcV5JWQ7p&ust=1695862456209000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMD6gIvKyYEDFQAAAAAdAAAAABAE" alt="nextjs">
+<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs">
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
